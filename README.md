@@ -1,3 +1,8 @@
+LO PRIMERO QUE DEBE HACER ES INSTALAR LAS DEPENDENCIAS DE NPM
+npm install
+
+luego de eso en la raiz del proyecto, se encuentra " dependencias.jsx ". Instalelas todas
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
